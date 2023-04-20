@@ -1,0 +1,29 @@
+
+
+1. The game will start with a shuffled deck of 52 cards laid out on the screen in 7 columns.
+The first column will have one card, the second column will have two cards, and so on, until the seventh column, which will have seven cards.
+
+2. The objective of Solitaire is to move all of the cards from the columns to the four foundation piles in the upper-right corner of the screen.
+The foundation piles must be built up in suit from Ace to King (e.g. Ace of Spades, Two of Spades, Three of Spades, etc.).
+
+3. To move cards around the board, you can click on a card and drag it to a new location.
+You can move cards to the foundation piles, to the other columns, or to the waste pile in the upper-left corner of the screen.
+
+4. Only the top card of each column and the waste pile is face up, while the rest of the cards are face down.
+You can turn over a face-down card by clicking on it.
+
+5. When you move a card to a new location, you must follow the rules of Solitaire. 
+You can move a card to a column if it is one rank lower and a different color (e.g. a black Seven can be placed on a red Eight).
+
+6. You can move multiple cards at once by clicking and dragging a sequence of cards. 
+The cards must be in descending order and alternating colors (e.g. a black King can be placed on a red Queen).
+
+7. If you run out of moves on the board, you can draw cards from the deck in the upper-left corner of the screen. 
+Click on the deck to draw one card, or click and drag the deck to draw three cards at once.
+
+8. You can only go through the deck once in Solitaire, so use your cards wisely.
+
+10. Keep moving cards around the board and building up the foundation piles until you have all of the cards in the foundation piles in the correct order. 
+Once you do, you win the game!
+
+That's it! With these steps, you should be able to play Solitaire and enjoy a classic game of cards from our app. Good luck!
